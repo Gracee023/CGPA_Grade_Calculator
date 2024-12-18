@@ -1,15 +1,12 @@
 # Flask Grade Calculator by Obodo Grace Kevwe
 
-
 ## Introduction
 
 `:scome to the Flask Grade Calculator! Originally developed as a desktop application, this project has now been brought online using Flask. Whether you're a student, educator, or just someone curious about translating grades, this tool is here to simplify the process for you.
 
-
 ## Description
 
 The Flask Grade Calculator is designed to convert grades given in percentage format into weighted GPA (Grade Point Average) values, such as 5.0. This conversion might seem straightforward, but it can be surprisingly complex due to variations in grading systems. To address this, the calculator employs a series of if-statements to ensure accurate translation from percentage to weighted GPA.
-
 
 ## Features
 
